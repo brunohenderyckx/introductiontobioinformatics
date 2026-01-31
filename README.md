@@ -54,6 +54,22 @@ The workshop follows a progressive learning path, starting with Python fundament
 - Color-coded output based on amino acid similarity
 - Amino acid property groupings (e.g., D/E/N/Q are similar, K/R/H are similar)
 
+### Part 5: Advanced Bioinformatics
+
+| File | Description |
+|------|-------------|
+| `transcription.py` | Convert DNA to RNA (T → U) - the first step in gene expression |
+| `reverse_complement.py` | Generate the complementary DNA strand and visualize double-stranded DNA |
+| `translation.py` | Convert RNA/DNA to protein using the genetic code (codon table) |
+| `fasta_parser.py` | Read and write FASTA files - the standard bioinformatics format |
+
+**Key concepts:**
+- The central dogma: DNA → RNA → Protein
+- Codon tables and reading frames
+- All 6 reading frames (3 forward, 3 reverse)
+- File parsing and standard formats
+- Base complementarity (A-T, G-C)
+
 ## Requirements
 
 - Python 3.x
